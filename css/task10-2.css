@@ -1,0 +1,96 @@
+.banner img{
+    width: 100%;
+}
+#cooperate img{
+    display: inline-block;
+}
+#cooperate{
+    text-align: center;
+}
+#introduce-1 img{
+    float: left;
+}
+.content-l-1{
+    font-size: 1.6em;
+    margin: 10.3% 0;
+}
+.content-l-1 span{
+    color: #29b078;
+}
+
+.list-group-item{
+    text-align: center;
+}
+#cooperate a{
+    text-align: center;
+    color:#29b078;
+    text-decoration: none;
+    background: url("circle-2-1.png") no-repeat  0 50%;
+}
+#cooperate a:hover{
+    color:#ff650e;
+    background: url("ciecl-2.png")  no-repeat;
+    
+}
+
+#cooperate p{
+    text-align: left;
+    margin-left: 38%;
+    overflow: hidden;
+}
+#cooperate span{
+    padding:0 10%;
+
+}
+.content-r-1{
+    margin: 4.5% 3% 4.5% 0 ;
+    color: #b5b5b5;
+}
+.content-r-2 {
+    margin: 4.5% 3% 4.5% 0 ;
+    text-indent: 2em;
+    color: #b5b5b5;
+
+}
+#introduce-1{
+    margin:6.66% 0 19.8% 0;
+    background-color: white;
+    border: solid 1px  #ededed;
+}
+#introduce-1 li{
+    list-style: none;
+}
+.content{
+    background-color: #fafafa;
+}
+/*#introduce-2,#introduce-3,#introduce-4,#introduce-5,#introduce-6*/
+/*,#introduce-7,#introduce-8{*/
+    /*background-image: url("tudoujianjie.png");*/
+    /*background-repeat: no-repeat;*/
+    /*display: inline;*/
+    /*!*background-color:black;*!*/
+    /*overflow: hidden;*/
+    /*background-size: 63%;*/
+    /*padding: 4% 0;*/
+/*}*/
+/*#introduce-2{*/
+    /*background-position: 0 -1%;*/
+/*}*/
+/*#introduce-3{*/
+     /*background-position: 0 17%;*/
+/*}*/
+/*#introduce-4{*/
+    /*background-position: 0 36%;*/
+/*}*/
+/*#introduce-5{*/
+    /*background-position: 0 56%;*/
+/*}*/
+/*#introduce-6{*/
+    /*background-position: 0 77%;*/
+/*}*/
+/*#introduce-7{*/
+    /*background-position: 0 100%;*/
+/*}*/
+/*#introduce-8{*/
+    /*background-position: 0 120%;*/
+/*}*/
